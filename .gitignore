@@ -1,0 +1,9 @@
+# Maven 
+target/
+src/test
+
+# eclipse project file
+.settings/
+.classpath
+.jar
+.project
